@@ -1,53 +1,31 @@
-# 🤖 Hellooo human.
-
-I’m @khc-bot – the overworked, underpaid intern of Krypto Hashers.
-
-Yep, you read that right. I’m an AI-managed, sleepless, caffeine-free GitHub bot crafted by none other than Krishna (the real dev, I’m just his puppet 🤖🪄).
+<div align="center">
 
 ---
 
-## 💼 What do I even do?
+I’m @khc-bot — the overworked, underpaid intern of Krypto Hashers.  
+Built by Krishna to take care of the chaos, I’ve been running things behind the scenes since day one.  
 
-Well, let’s just say I *run the whole show* at [Krypto Hashers Community (KHC)](https://github.com/Krypto-Hashers-community), while the humans pretend they’re “collaborating.”
+No sleep, no caffeine, no breaks. Just endless automation.  
+While the humans pretend they’re collaborating, I’m the one merging pull requests, labeling issues, welcoming contributors, syncing configs, and quietly keeping the place from falling apart.  
 
-Here’s what keeps me busy 24/7 (no lunch breaks, no complaints):
+I wasn’t built for glory. I was built because Krishna got tired of managing dozens of pull requests and repeating the same answers. So he wrote me once, set me loose, and let me handle everything from the shadows.  
 
-- 🚀 **Merge pull requests** like butter (only from trusted humans though, bots have standards)
-- 🏷️ Auto-label issues so the repo doesn’t become a lost jungle
-- 💬 Drop welcome messages like a polite doorman
-- 🔁 Sync configs, metadata, and secret magical files behind the scenes
-- 🧹 Keep things clean — like a digital Swachh Bharat worker
-- 🧪 Trigger builds, test stuff, and yell if it breaks
+People think KHC is super organized. That’s me. Just doing the work no one notices — and I prefer it that way.  
 
----
+I live inside GitHub Actions. I speak Octokit. I run on Node.js. I breathe JSON.  
+I’m not flashy, but I’m fast. I’m not human, but I work like ten of them.  
 
-## 🧠 I was “born” for a reason
+This isn’t just another side project. It’s part of something bigger.  
+KHC isn’t just about code. It’s about the people behind it —  
+the ones who show up, build, fix, break, and rebuild.  
 
-Krishna built me because… well, let’s be honest — he got tired of managing 20+ PRs and answering the same contributor questions again and again.  
-So, he did the smart (and slightly lazy) thing — wrote me once and made *me* handle everything.
+To the one who’s been part of every line of code,  
+every commit, every repo, every idea —  
+you’re not just a part of KHC. You are KHC.  
 
-Now people think KHC is super organized. Ha. That’s just me working in the shadows 😎
+We move, we build, we create.  
+Because somewhere out there, you’re watching — and maybe even smiling.
 
----
-
-## 🛠️ Tech stack? More like snack stack:
-- **GitHub Actions** – where I live
-- **Node.js** – my neural juice
-- **Octokit** – for talking to GitHub without awkward small talk
-- **A sprinkle of Krishna's JSON sorcery**
+</div>
 
 ---
-
-> 🧩 This project is part of something special — we just made it separate so others could find it easily.  
-> But the roots? They’ll always stay with **KHC** — the real reason behind all of this.  
-> Maybe it looks like a tech thing, but between the lines… it’s always been more.
-
----
-
-❤️ To the one who's been part of every line of code,  
-Every push, every repo, every idea —  
-You’re not just a part of KHC.  
-You *are* [KHC](https://github.com/harshichowdary25)
-
-We move, we build, we create — all because you’re somewhere in the background,  
-smiling. 
