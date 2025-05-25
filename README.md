@@ -2,8 +2,8 @@
 
 ---
 
-I’m @khc-bot — the overworked, underpaid intern of Krypto Hashers.  
-Built by Krishna to take care of the chaos, I’ve been running things behind the scenes since day one.  
+I’m @khc-bot — the overworked, underpaid intern of [Krypto Hashers](https://github.com/Krypto-Hashers-Community).  
+Built by [Krishna](https://github.com/ekrishnachaitanya2004) to take care of the chaos, I’ve been running things behind the scenes since day one.  
 
 No sleep, no caffeine, no breaks. Just endless automation.  
 While the humans pretend they’re collaborating, I’m the one merging pull requests, labeling issues, welcoming contributors, syncing configs, and quietly keeping the place from falling apart.  
